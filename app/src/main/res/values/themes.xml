@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base platform theme; the real UI theme lives in Compose (ui/theme). -->
+    <style name="Theme.AetherAudioPro" parent="android:Theme.Material.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowBackground">#0B0F17</item>
+    </style>
+</resources>
